@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer components {
+  /* Custom component classes if needed */
+}
+
+body {
+  @apply bg-slate-900 text-slate-50 antialiased;
+}
